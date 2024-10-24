@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1729766917,,"wq!"
+|2,0,1729769232,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,30 @@
 # Registers:
 
 # File marks:
-'0  2  4  ~/calculator.sh
-|4,48,2,4,1729766917,"~/calculator.sh"
-'1  1  4  ~/calculator.sh
-|4,49,1,4,1729766482,"~/calculator.sh"
-'2  1  4  ~/calculator.sh
-|4,50,1,4,1729766482,"~/calculator.sh"
+'0  4  4  ~/calculator.sh
+|4,48,4,4,1729769232,"~/calculator.sh"
+'1  2  4  ~/calculator.sh
+|4,49,2,4,1729766917,"~/calculator.sh"
+'2  2  4  ~/calculator.sh
+|4,50,2,4,1729766917,"~/calculator.sh"
+'3  1  4  ~/calculator.sh
+|4,51,1,4,1729766482,"~/calculator.sh"
+'4  1  4  ~/calculator.sh
+|4,52,1,4,1729766482,"~/calculator.sh"
+'5  1  4  ~/calculator.sh
+|4,53,1,4,1729766482,"~/calculator.sh"
+'6  1  4  ~/calculator.sh
+|4,54,1,4,1729766482,"~/calculator.sh"
 
 # Jumplist (newest first):
+-'  4  4  ~/calculator.sh
+|4,39,4,4,1729769232,"~/calculator.sh"
+-'  2  4  ~/calculator.sh
+|4,39,2,4,1729769209,"~/calculator.sh"
 -'  2  4  ~/calculator.sh
 |4,39,2,4,1729766917,"~/calculator.sh"
+-'  1  4  ~/calculator.sh
+|4,39,1,4,1729766895,"~/calculator.sh"
 -'  1  4  ~/calculator.sh
 |4,39,1,4,1729766895,"~/calculator.sh"
 -'  1  4  ~/calculator.sh
@@ -43,10 +57,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/calculator.sh
-	*	1729766915	0
-	"	2	4
-	^	2	5
-	.	2	4
+	*	1729769230	0
+	"	4	4
+	^	4	5
+	.	4	4
 	+	1	4
-	+	3	0
+	+	5	0
 	+	2	4
+	+	2	5
+	+	4	4
